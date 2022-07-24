@@ -1,4 +1,6 @@
-### Hi there 👋 
+### Hi there 👋
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Plasticine-Yang&show_icons=true&hide_border=true" />
 ### This is Plasticine!
 
 🤝 I am a Web Front-end Developer from China
@@ -6,7 +8,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Plasticine-Yang)
 [![Juejin](https://img.shields.io/badge/-juejin-blue)](https://juejin.cn/user/1324240506200781)
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### About me
 - 🏫 Sophomore at Guangzhou University.
@@ -17,8 +18,6 @@
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
